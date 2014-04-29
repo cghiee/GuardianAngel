@@ -1,6 +1,7 @@
 GuardianAngel
 =============
 
+<<<<<<< HEAD
 32,000 fatal car crashes occur each year in the US. It's possible to predict collisions based on GPS and Wi-Fi capabilities of your existing smart phone. Through this app we're giving drivers the power to avoid and prevent car accidents using the hardware available in their hand.
 
 The best of part of life is spending time with family and friends. The worst part of life is losing a friend, a loved one, or a child. For Americans age 4 to 34, automobile accidents are the leading cause of death.
@@ -16,3 +17,6 @@ Requirements:
 
 Demo video link:
 http://shirazqayyum.github.io/GuardianAngel/
+=======
+DOT data challenge
+>>>>>>> 4364649c0bd2c11c8bd62eb1a6fc28f2b281a4e9
